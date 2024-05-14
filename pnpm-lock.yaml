@@ -155,8 +155,8 @@ importers:
         version: 3.1.2
     devDependencies:
       vue:
-        specifier: ^2.6
-        version: 2.6.0
+        specifier: ^3.0.0
+        version: 3.3.2
 
 packages:
 
@@ -6680,10 +6680,6 @@ packages:
       semver: 7.3.8
     transitivePeerDependencies:
       - supports-color
-    dev: true
-
-  /vue@2.6.0:
-    resolution: {integrity: sha512-QSKHpmV17wqDmS5jVCc8X9LyTcCCQP4M1RTRpLBO+hRveePduJaGz1FGjVpRVcE6cKYbhsooz6RW7GWLGNjKGg==}
     dev: true
 
   /vue@3.3.2:
